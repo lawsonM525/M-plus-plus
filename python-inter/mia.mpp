@@ -1,8 +1,12 @@
-#THis is the first software in M++
+# M++ Software Release 1.0
 
-PRINT("THis is the first software in M++")
-PRINT("Greetings universe!")
+PRINT("This is the first software in M++")
+PRINT("Greetings universe! - totally not an alt of Hello World!")
 PRINT("What in the world is a programming Language??????")
 PRINT(";\n")
-PRINT("How will I know :))")
+PRINT("A programming language is any set of rules that converts strings, or graphical program elements in the case of visual programming languages, to various kinds of machine code output")
+PRINT("Wikipedia - A reliable source.")
 PRINT("MATH_PI")
+
+VAR assembler = "macro"
+PRINT(assembler)

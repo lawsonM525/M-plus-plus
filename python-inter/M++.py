@@ -6,8 +6,8 @@ import os
 
 help = """
 RUN("file.mpp")
-PRINT("string") // Dont try to print number
-FUN ==>> Is the same us function()
+PRINT("string") // Dont try to print number ...or else
+FUN ==>> Is the same as function()
 """
 
 
@@ -36,7 +36,7 @@ while True:
 		time.sleep(1)
 		print(":(")
 		time.sleep(1)
-		print("bye")
+		print("have a lovely day <3")
 		exit()
 	if text.strip() == "": continue
 	result, error = Mpp.run('<stdin>', text)
